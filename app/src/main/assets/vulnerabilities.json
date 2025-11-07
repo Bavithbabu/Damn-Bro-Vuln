@@ -1,0 +1,12 @@
+[
+  {
+    "id": "crypto-ecb",
+    "title": "Insecure Crypto (ECB)",
+    "activityClass": "com.example.vulnlab.CryptoActivity"
+  },
+  {
+    "id": "jni-overflow",
+    "title": "Unsafe JNI Buffer Overflow",
+    "activityClass": "com.example.vulnlab.NativeActivity"
+  }
+]
